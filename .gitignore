@@ -1,0 +1,16 @@
+# dependencies
+api/node_modules/
+client/node_modules/
+
+# production builds
+api/dist/
+client/dist/
+client/build/
+
+# environment variables
+api/.env
+client/.env
+
+# misc
+.DS_Store
+Thumbs.db
